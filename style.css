@@ -64,8 +64,8 @@ button {
     line-height: 1;
 }
 
-.orange {
-    color: #f06449 !important;
+.purple {
+    color: #5e17eb !important;
 }
 
 .link__hover-effect {
@@ -210,7 +210,7 @@ LANDING PAGE
 }
 
 .social__link {
-    background-color: #f06449;
+    background-color: #5e17eb;
     color: white;
     padding: 6px;
     width: 32px;
@@ -418,8 +418,8 @@ Modal
 }
 
 .form__submit {
-    background-color: #f06449;
-    border: 2px solid #f06449;
+    background-color: #5e17eb;
+    border: 2px solid #5e17eb;
     color: white;
     font-weight: 700;
     width: 100%;
@@ -435,8 +435,8 @@ Modal
 }
 
 .form__submit:active {
-    border-color: #f06449;
-    color:#f06449;
+    border-color: #5e17eb;
+    color:#5e17eb;
 }
 
 .modal__overlay {
