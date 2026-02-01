@@ -229,9 +229,9 @@ LANDING PAGE
     font-size: 32px;
     border-radius: 50%;
     border: none;
-    background-color: #242424;
+    background-color: #5e17eb;
     color: white;
-    position: absolute;
+    position: fixed;
     bottom: 24px;
     right: 40px;
 }
